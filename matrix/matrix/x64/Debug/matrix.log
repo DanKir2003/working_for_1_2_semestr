@@ -1,0 +1,3 @@
+﻿  matrix.cpp
+C:\Users\ASUS ROG\source\repos\matrix\matrix\matrix.cpp(45,17): warning C4101: min: неиспользованная локальная переменная
+  matrix.vcxproj -> C:\Users\ASUS ROG\source\repos\matrix\x64\Debug\matrix.exe
